@@ -30,7 +30,7 @@ I publish focused libraries that make mobile code easier to maintain:
 
 - **Architecture and delivery:** feature boundaries, offline reliability, API integrations, automated tests, CI/CD and release documentation.
 - **Remote collaboration:** clear written decisions, reproducible setup, reviewable pull requests and mentoring. Previous remote roles include RealTyme and Inventiv.
-- **AI-assisted development:** Cursor, Codex and reusable Codex skills for scoped planning, implementation, refactoring and test generation. I provide repository context and constraints, review generated changes and verify them with tests and static analysis.
+- **AI-assisted development:** Cursor, Codex and reusable AI skills for scoped planning, implementation, refactoring and test generation. I provide repository context and constraints, review generated changes and verify them with tests and static analysis.
 - **Design collaboration:** accessible, adaptive interfaces and shared design systems across phone and tablet layouts.
 
 [Flutter architecture tour](https://github.com/redjadet/flutter_bloc_app/blob/main/docs/architecture_tour.md) · [iOS architecture tour](https://github.com/redjadet/super_demo_ios/blob/main/docs/architecture-tour.md) · [Documented human–AI workflow](https://github.com/redjadet/flutter_bloc_app/blob/main/docs/ai/human_ai_collaboration.md)
