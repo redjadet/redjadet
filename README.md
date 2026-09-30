@@ -16,6 +16,12 @@ I’m interested in **remote Senior iOS, Flutter and Mobile Engineer roles** wit
 
 These are personal reference projects. My production experience is described on LinkedIn; the native reference app is a portfolio sample, not an App Store release.
 
+## One engineering tradeoff
+
+**Offline availability without hiding stale data.** The native reference app uses a configurable cache expiry (15 minutes by default) and exposes stale fallback to the UI. Cancellation stays separate from network failure. A stale widget snapshot uses the oldest surviving row’s timestamp, so a newer row cannot extend the lifetime of older content.
+
+[Implementation](https://github.com/redjadet/super_demo_ios/blob/main/superDemoApp/Features/Feed/Data/CachingFeedRepository.swift) · [Tests for expiry, cancellation and mixed-age caches](https://github.com/redjadet/super_demo_ios/blob/main/superDemoAppTests/Features/Feed/CachingFeedRepositoryTests.swift)
+
 ## Published Dart packages
 
 I publish focused libraries that make mobile code easier to maintain:
