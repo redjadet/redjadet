@@ -5,7 +5,7 @@ I build reliable mobile applications with native **iOS/iPadOS** expertise and **
 
 **10+ years in mobile development · Remote team experience · Istanbul, Türkiye (UTC+3) · Fluent English and Turkish**
 
-I’m available immediately for **Senior iOS, Flutter and Mobile Engineer roles**: **remote from Türkiye** or **hybrid/onsite in Istanbul**. Open to **full-time employment and contract engagements**. [Connect on LinkedIn](https://www.linkedin.com/in/ilker-sevim-95020820/) · [Portfolio](https://redjadet.github.io/react-web-portfolio/).
+I’m available immediately for **Senior iOS, Flutter and Mobile Engineer roles**: **remote from Türkiye** or **hybrid/onsite in Istanbul**. Open to **full-time employment and contract engagements**. [Connect on LinkedIn](https://www.linkedin.com/in/ilker-sevim-95020820/) · [Portfolio](https://redjadet.github.io/).
 
 ## Start with these projects
 
