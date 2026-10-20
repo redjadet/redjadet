@@ -1,20 +1,24 @@
 # İlker Sevim
-### Senior iOS & Flutter Engineer
+### Flutter Cross-Platform Developer & Senior iOS Engineer
 
-I build reliable mobile applications with native **iOS/iPadOS** expertise and **Flutter** cross-platform experience. My work spans secure communications, payments, banking, email and developer tooling.
+I build reliable **Flutter** cross-platform applications, backed by native **iOS/iPadOS** production experience. I also maintain personal **native Android** and **React/TypeScript frontend** portfolios. My work spans secure communications, payments, banking, email and developer tooling.
+
+My Flutter experience includes **1.5 years in commercial projects** and **3 years of personal work**. 
 
 **10+ years in mobile development · Remote team experience · Istanbul, Türkiye (UTC+3) · Fluent English and Turkish**
 
-I’m available immediately for **Senior iOS, Flutter and Mobile Engineer roles**: **remote from Türkiye** or **hybrid/onsite in Istanbul**. Open to **full-time employment and contract engagements**. [Connect on LinkedIn](https://www.linkedin.com/in/ilker-sevim-95020820/) · [Portfolio](https://ilkersevim.github.io/).
+I’m available immediately for **Flutter, Senior iOS and Mobile Engineer roles**, and **Android or React frontend opportunities aligned with my personal portfolio experience**: **remote from Türkiye** preferred, followed by **Istanbul hybrid** and suitable **Istanbul onsite** roles. Open to **full-time employment and contract engagements**. [Connect on LinkedIn](https://www.linkedin.com/in/ilker-sevim-95020820/) · [Portfolio](https://ilkersevim.github.io/).
 
 ## Start with these projects
 
 | Project | What to review | Try it / walkthrough |
 | --- | --- | --- |
-| [Native iOS & iPadOS reference app](https://github.com/redjadet/super_demo_ios) | SwiftUI, SwiftData, Swift Concurrency, offline networking, UIKit interop, tests and optional Flutter add-to-app | [3-minute portfolio path](https://github.com/redjadet/super_demo_ios/blob/main/docs/portfolio.md) |
 | [Flutter BLoC reference app](https://github.com/redjadet/flutter_bloc_app) | Dart, BLoC/Cubit, Clean Architecture, offline sync, native Swift/Kotlin interop and unit/widget/golden/integration tests | [Live web demo](https://redjadet.github.io/flutter_bloc_app/) · [Google Play](https://play.google.com/store/apps/details?id=com.ilkersevim.blocflutter) · [Interview walkthrough](https://github.com/redjadet/flutter_bloc_app/blob/main/docs/interview_showcase.md) |
+| [Native Apple reference app](https://github.com/redjadet/super_demo_ios) | iOS/iPadOS, SwiftUI, SwiftData, Swift Concurrency, offline networking, UIKit interop, tests, macOS/watchOS/tvOS portfolio demos and optional Flutter add-to-app | [3-minute portfolio path](https://github.com/redjadet/super_demo_ios/blob/main/docs/portfolio.md) |
+| [Native Android reference app](https://github.com/redjadet/super_demo_android) | Kotlin, Jetpack Compose, Room, Coroutines/Flow/StateFlow, Hilt, Retrofit, offline feed caching, local CRUD, deep links and JUnit/Robolectric/Compose tests | [Inspect the reviewed source](https://github.com/redjadet/super_demo_android/tree/78940311bfb1ac1c8b3048dc37e6e1efe73392f5) |
+| [React frontend portfolio](https://github.com/redjadet/react-web-portfolio) | React, TypeScript, Vite, reusable components, typed content, CSS Modules, responsive layouts, keyboard focus and reduced-motion support | [Live portfolio](https://ilkersevim.github.io/) |
 
-These are personal reference projects. My production experience is described on LinkedIn; the native reference app is a portfolio sample, not an App Store release.
+These are personal reference projects. My production experience is described on LinkedIn; the native Apple and Android reference apps demonstrate portfolio implementation. The Flutter app has the linked Google Play release.
 
 ## One engineering tradeoff
 
